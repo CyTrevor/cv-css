@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+  line-height: 2;
+}
+a {
+  color: #4B6587;
+  font-size:1rem;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover {
+  color: #40514E;
+}
+hr {
+border: dotted 6px #EAF6F6;
+border-bottom: none;
+margin: 100px auto;
+width: 4%;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 5rem;
+  color: #4B6587;
+  line-height: 1;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #4B6587;
+  font-weight: normal;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #4B6587;
+
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+
+}
+.skill-row {
+  width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+
+}
+
+.skillspic-img {
+  width: 20%;
+  float:left;
+  margin-right: 30px;
+
+}
+
+
+
+.gamer-img {
+  width: 20%;
+  float:right;
+  margin-left: 30px;
+}
+
+
+.top-container {
+  background-color: #F4DFD0;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+  padding: 100px 0 100px 0;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #F4DFD0;
+  padding: 50px 0 40px;
+
+}
+.contact-me {
+
+  margin:  40px auto 60px auto;
+}
+.copyright {
+  color: #C9CCD5;
+  font-size: 0.75rem;
+  margin: 20px 0;
+}
+
+.profile-pic {
+  width: 300px;
+
+}
+.btn {
+   background: #6E93BD;
+   background-image: -webkit-linear-gradient(top, #6E93BD, #0A4BB5);
+   background-image: -moz-linear-gradient(top, #6E93BD, #0A4BB5);
+   background-image: -ms-linear-gradient(top, #6E93BD, #0A4BB5);
+   background-image: -o-linear-gradient(top, #6E93BD, #0A4BB5);
+   background-image: -webkit-gradient(to bottom, #6E93BD, #0A4BB5);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 20px;
+   line-height: 20px;
+   color: #FFFFFF;
+   font-family: 'Roboto', sans-serif;
+   width: 159px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 0 1px 5px 0 #000000;
+   -moz-box-shadow: 0 1px 5px 0 #000000;
+   box-shadow: 0 1px 5px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #4B6587 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 40px auto 40px auto;
+}
+
+.btn:hover {
+   border: solid #50709D 1px;
+   background: #EAF6F6;
+   background-image: -webkit-linear-gradient(top, #EAF6F6, #204889);
+   background-image: -moz-linear-gradient(top, #EAF6F6, #204889);
+   background-image: -ms-linear-gradient(top, #EAF6F6, #204889);
+   background-image: -o-linear-gradient(top, #EAF6F6, #204889);
+   background-image: -webkit-gradient(to bottom, #EAF6F6, #204889);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
